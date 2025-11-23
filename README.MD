@@ -1,4 +1,4 @@
-# Student Portfolio - Shourya Pratap
+# Student Portfolio - Vansh viraj bisht
 
 ## 📌 Project Description
 A responsive, static personal portfolio website designed to showcase my academic projects and development skills. This project demonstrates mastery of HTML5 semantic structure and advanced CSS3 styling techniques, including keyframe animations and flexbox layouts, without relying on external frameworks.
