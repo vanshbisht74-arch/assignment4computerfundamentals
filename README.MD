@@ -8,7 +8,7 @@ Since this is a static website, no compilation or server setup is required.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/shourya0pratap/Portfolio-Webpage.git]()
+   git clone [https://github.com/vanshbisht74-arch/assignment4computerfundamentals/edit/main/README.MD]()
 2. **Navigate to the folder:**
     ```bash
     cd Portfolio-Webpage
